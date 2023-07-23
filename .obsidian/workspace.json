@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/test.md",
+                "file": "source/_posts/Markdown/Markdoown语法.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/test.md",
+                "file": "source/_posts/Markdown/Markdoown语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/test.md",
+                "file": "source/_posts/Markdown/Markdoown语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/test.md"
+                "file": "source/_posts/Markdown/Markdoown语法.md"
               }
             }
           },
@@ -164,8 +164,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "753f71b6539e8c43",
+  "active": "d3e2b3cd533875c8",
   "lastOpenFiles": [
+    "source/_posts/test.md",
     "db.json",
     "public/img/default.png",
     "public/img/police_beian.png",
@@ -186,8 +187,6 @@
     "public/js/events.js",
     "public/js/color-schema.js",
     "public/js/boot.js",
-    "public/js",
-    "source/_posts/Markdown/Markdoown语法.md",
-    "source/_posts/test.md"
+    "source/_posts/Markdown/Markdoown语法.md"
   ]
 }
