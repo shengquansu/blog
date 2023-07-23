@@ -11,12 +11,8 @@
             "id": "d3e2b3cd533875c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/Markdown/Markdoown语法.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Markdown/Markdoown语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Markdown/Markdoown语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/Markdown/Markdoown语法.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,29 +156,53 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d3e2b3cd533875c8",
+  "active": "753f71b6539e8c43",
   "lastOpenFiles": [
-    "source/_posts/test.md",
-    "db.json",
-    "public/img/default.png",
-    "public/img/police_beian.png",
-    "public/img/loading.gif",
-    "public/img/fluid.png",
-    "public/img/bg/wallhaven-z8e8qy.jpg",
-    "public/img/bg/wallhaven-yx5kml.jpg",
-    "public/img/bg/wallhaven-rdwjj7.jpg",
-    "public/img/bg/wallhaven-x8oyol.jpg",
-    "public/img/bg/wallhaven-oxkjgm.jpg",
-    "public/img/bg/wallhaven-q67z9d.jpg",
-    "public/img/bg",
-    "public/js/utils.js",
-    "public/js/plugins.js",
-    "public/js/local-search.js",
-    "public/js/leancloud.js",
-    "public/js/img-lazyload.js",
-    "public/js/events.js",
-    "public/js/color-schema.js",
-    "public/js/boot.js",
-    "source/_posts/Markdown/Markdoown语法.md"
+    "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
+    "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
+    "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/function.js",
+    "node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js",
+    "node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
+    "node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
+    "node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json",
+    "node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js",
+    "node_modules/parse5/node_modules/entities/lib/esm/generated/encode-html.js.map",
+    "node_modules/parse5/node_modules/entities/lib/esm/generated/encode-html.js",
+    "node_modules/parse5/node_modules/entities/lib/esm/generated/encode-html.d.ts.map",
+    "node_modules/hexo-theme-landscape/source/css/images/banner.jpg",
+    "node_modules/hexo-cli/assets/source/_posts/hello-world.md",
+    "node_modules/stylus/node_modules/source-map/README.md",
+    "node_modules/stylus/node_modules/ms/readme.md",
+    "node_modules/stylus/node_modules/ms/license.md",
+    "node_modules/stylus/node_modules/debug/README.md",
+    "node_modules/string_decoder/node_modules/safe-buffer/README.md",
+    "node_modules/send/node_modules/statuses/README.md",
+    "node_modules/send/node_modules/statuses/HISTORY.md",
+    "node_modules/send/node_modules/on-finished/README.md",
+    "node_modules/send/node_modules/on-finished/HISTORY.md",
+    "node_modules/send/node_modules/ms/readme.md",
+    "node_modules/send/node_modules/ms/license.md",
+    "node_modules/send/node_modules/mime/README.md",
+    "node_modules/send/node_modules/mime/CHANGELOG.md",
+    "node_modules/parse5/node_modules/entities/readme.md",
+    "node_modules/http-proxy-agent/node_modules/ms/readme.md",
+    "node_modules/http-proxy-agent/node_modules/ms/license.md",
+    "node_modules/http-proxy-agent/node_modules/debug/README.md",
+    "node_modules/http-errors/node_modules/statuses/README.md",
+    "node_modules/http-errors/node_modules/statuses/HISTORY.md",
+    "node_modules/https-proxy-agent/node_modules/ms/readme.md",
+    "node_modules/https-proxy-agent/node_modules/ms/license.md",
+    "node_modules/https-proxy-agent/node_modules/debug/README.md",
+    "node_modules/hexo-theme-fluid/source/img/police_beian.png",
+    "node_modules/hexo-theme-fluid/source/img/loading.gif",
+    "node_modules/hexo-theme-fluid/source/img/fluid.png",
+    "node_modules/hexo-theme-fluid/source/img/default.png",
+    "node_modules/hexo-theme-fluid/source/img/avatar.png",
+    "node_modules/hexo-renderer-marked/node_modules/htmlparser2/README.md",
+    "node_modules/hexo-renderer-marked/node_modules/hexo-util/README.md",
+    "node_modules/nib/iconic/iconic_stroke.svg",
+    "node_modules/highlight.js/styles/pojoaque.jpg",
+    "node_modules/highlight.js/styles/brown-papersq.png",
+    "node_modules/psl/browserstack-logo.svg"
   ]
 }
