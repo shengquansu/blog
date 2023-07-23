@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/Markdown/Markdoown语法.md",
+                "file": "source/_posts/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Markdown/Markdoown语法.md",
+                "file": "source/_posts/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Markdown/Markdoown语法.md",
+                "file": "source/_posts/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Markdown/Markdoown语法.md"
+                "file": "source/_posts/test.md"
               }
             }
           },
@@ -164,8 +164,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "753f71b6539e8c43",
+  "active": "d3e2b3cd533875c8",
   "lastOpenFiles": [
+    "source/_posts/Markdown/Markdoown语法.md",
     "db.json",
     "public/img/bg/wallhaven-72pqze.jpg",
     "public/img/bg/wallhaven-z8e8qy.jpg",
@@ -182,7 +183,6 @@
     "public/js/events.js",
     "public/js/color-schema.js",
     "public/js/boot.js",
-    "public/js",
     "public/img/fluid.png",
     "public/img/bg/wallhaven-yx5kml.jpg",
     "public/img/bg/wallhaven-rdwjj7.jpg",
