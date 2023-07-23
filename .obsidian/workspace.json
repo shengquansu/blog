@@ -158,6 +158,7 @@
   },
   "active": "753f71b6539e8c43",
   "lastOpenFiles": [
+    "db.json",
     "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
     "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
     "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/function.js",
@@ -168,7 +169,6 @@
     "node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js",
     "node_modules/parse5/node_modules/entities/lib/esm/generated/encode-html.js.map",
     "node_modules/parse5/node_modules/entities/lib/esm/generated/encode-html.js",
-    "node_modules/parse5/node_modules/entities/lib/esm/generated/encode-html.d.ts.map",
     "node_modules/hexo-theme-landscape/source/css/images/banner.jpg",
     "node_modules/hexo-cli/assets/source/_posts/hello-world.md",
     "node_modules/stylus/node_modules/source-map/README.md",
