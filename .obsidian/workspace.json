@@ -164,29 +164,30 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d3e2b3cd533875c8",
+  "active": "753f71b6539e8c43",
   "lastOpenFiles": [
-    "source/_posts/Markdown/Markdoown语法.md",
-    "source/_posts/test.md",
     "db.json",
-    "public/img/bg/wallhaven-72pqze.jpg",
-    "public/img/bg/wallhaven-z8e8qy.jpg",
     "public/img/default.png",
-    "public/archives/2023/index.html",
     "public/img/police_beian.png",
-    "public/img/avatar.png",
     "public/img/loading.gif",
+    "public/img/fluid.png",
+    "public/img/bg/wallhaven-z8e8qy.jpg",
+    "public/img/bg/wallhaven-yx5kml.jpg",
+    "public/img/bg/wallhaven-rdwjj7.jpg",
+    "public/img/bg/wallhaven-x8oyol.jpg",
+    "public/img/bg/wallhaven-oxkjgm.jpg",
+    "public/img/bg/wallhaven-q67z9d.jpg",
+    "public/img/bg",
     "public/js/utils.js",
     "public/js/plugins.js",
     "public/js/local-search.js",
-    "public/js/img-lazyload.js",
     "public/js/leancloud.js",
+    "public/js/img-lazyload.js",
     "public/js/events.js",
     "public/js/color-schema.js",
     "public/js/boot.js",
-    "public/img/fluid.png",
-    "public/img/bg/wallhaven-yx5kml.jpg",
-    "public/img/bg/wallhaven-rdwjj7.jpg",
-    "public/img/bg/wallhaven-x8oyol.jpg"
+    "public/js",
+    "source/_posts/Markdown/Markdoown语法.md",
+    "source/_posts/test.md"
   ]
 }
