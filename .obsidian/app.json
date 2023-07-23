@@ -1,0 +1,9 @@
+{
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "node_modules/",
+    "public/",
+    "scaffolds/",
+    "themes/"
+  ]
+}
