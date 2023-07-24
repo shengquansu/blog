@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "12a2f6b3d632079a",
+        "id": "8272d5e1eeafae2f",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e2b3cd533875c8",
+            "id": "57f70652cd634d9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "confi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,12 +164,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "9960d555ac2d3762",
+  "active": "5b6098f99bc92485",
   "lastOpenFiles": [
+    "Home.md",
+    "source/_posts/未命名.md",
     "未命名",
     "public/2023/07/b66265f8d538.html",
     "source/_posts/hello-world.md",
-    "source/_posts/Home.md",
     "blog/_config.yml.md",
     "blog",
     "source/_posts/config.yml.md",
@@ -194,7 +188,6 @@
     "node_modules/jira-smart-commit/index.js",
     "node_modules/hexo-backlink/package.json",
     "node_modules/hexo-backlink/index.js",
-    "node_modules/hexo-backlink/LICENSE",
     "node_modules/husky/README.md",
     "node_modules/@adobe/css-tools/History.md",
     "source/_posts/test.md",

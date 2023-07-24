@@ -1,1 +1,0 @@
-[["E:\obsidian_vault\hexo\blog\_config.yml"]]
