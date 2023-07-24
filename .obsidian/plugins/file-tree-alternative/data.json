@@ -8,6 +8,7 @@
   "showFilesFromSubFoldersButton": true,
   "revealActiveFileButton": false,
   "excludedExtensions": "",
+  "excludedFolders": "' node_modules, themes, public '",
   "folderIcon": "icomoon",
   "folderCount": true,
   "folderCountOption": "notes",

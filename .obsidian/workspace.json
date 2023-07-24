@@ -66,22 +66,23 @@
             }
           },
           {
-            "id": "4ef2e361df422a41",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "4d0af972fb28c9fc",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "54a002a3b0f2aa65",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,8 +172,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "9960d555ac2d3762",
+  "active": "13d0a6aa21425730",
   "lastOpenFiles": [
+    "node_modules/jira-smart-commit/README.md",
+    "node_modules/jira-smart-commit/package.json",
+    "node_modules/jira-smart-commit/CHANGELOG.md",
+    "node_modules/hexo-backlink/README.md",
+    "node_modules/@adobe/css-tools/Readme.md",
     "Home",
     "node_modules/jira-smart-commit/index.spec.js",
     "node_modules/jira-smart-commit/index.js",
@@ -183,8 +189,6 @@
     "node_modules/husky/husky.sh",
     "node_modules/husky/README.md",
     "node_modules/husky/package.json",
-    "node_modules/husky/lib/index.js",
-    "node_modules/husky/lib/index.d.ts",
     "node_modules/@adobe/css-tools/History.md",
     "source/_posts/hello-world.md",
     "source/_posts/Markdown/Markdoown语法.md",
@@ -207,9 +211,6 @@
     "node_modules/send/node_modules/mime/CHANGELOG.md",
     "node_modules/parse5/node_modules/entities/readme.md",
     "node_modules/http-proxy-agent/node_modules/ms/readme.md",
-    "node_modules/http-proxy-agent/node_modules/ms/license.md",
-    "node_modules/http-proxy-agent/node_modules/debug/README.md",
-    "node_modules/http-errors/node_modules/statuses/README.md",
     "node_modules/hexo-theme-fluid/source/img/police_beian.png",
     "node_modules/hexo-theme-fluid/source/img/loading.gif",
     "node_modules/hexo-theme-fluid/source/img/fluid.png",
