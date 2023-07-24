@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,8 +171,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d3e2b3cd533875c8",
+  "active": "9960d555ac2d3762",
   "lastOpenFiles": [
+    "未命名",
     "public/2023/07/b66265f8d538.html",
     "source/_posts/hello-world.md",
     "source/_posts/Home.md",
@@ -195,7 +195,6 @@
     "node_modules/hexo-backlink/package.json",
     "node_modules/hexo-backlink/index.js",
     "node_modules/hexo-backlink/LICENSE",
-    "node_modules/hexo-backlink/docs",
     "node_modules/husky/README.md",
     "node_modules/@adobe/css-tools/History.md",
     "source/_posts/test.md",
