@@ -6,5 +6,6 @@
     "scaffolds/",
     "themes/"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "source/Attachment"
 }
