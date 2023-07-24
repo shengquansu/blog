@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "source/Home.md"
+    },
+    {
       "basename": "Markdoown语法",
       "path": "source/_posts/Markdown/Markdoown语法.md"
     },
     {
       "basename": "hexo_template",
       "path": "source/Template/hexo_template.md"
-    },
-    {
-      "basename": "Home",
-      "path": "source/_posts/Home.md"
     },
     {
       "basename": "hello-world",
