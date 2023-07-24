@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "54a002a3b0f2aa65",
+            "id": "3e4744a1a5e6846f",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -172,8 +172,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "13d0a6aa21425730",
+  "active": "d3e2b3cd533875c8",
   "lastOpenFiles": [
+    "source/Home.md",
+    "source/_posts/Markdown/Markdoown语法.md",
     "node_modules/jira-smart-commit/README.md",
     "node_modules/jira-smart-commit/package.json",
     "node_modules/jira-smart-commit/CHANGELOG.md",
@@ -191,7 +193,6 @@
     "node_modules/husky/package.json",
     "node_modules/@adobe/css-tools/History.md",
     "source/_posts/hello-world.md",
-    "source/_posts/Markdown/Markdoown语法.md",
     "source/_posts/test.md",
     "source/about/index.md",
     "node_modules/hexo-theme-landscape/source/css/images/banner.jpg",
@@ -210,7 +211,6 @@
     "node_modules/send/node_modules/mime/README.md",
     "node_modules/send/node_modules/mime/CHANGELOG.md",
     "node_modules/parse5/node_modules/entities/readme.md",
-    "node_modules/http-proxy-agent/node_modules/ms/readme.md",
     "node_modules/hexo-theme-fluid/source/img/police_beian.png",
     "node_modules/hexo-theme-fluid/source/img/loading.gif",
     "node_modules/hexo-theme-fluid/source/img/fluid.png",
