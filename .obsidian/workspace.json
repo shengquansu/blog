@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/test.md",
+                "file": "source/_posts/Markdown/Markdoown语法.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/test.md",
+                "file": "source/_posts/Markdown/Markdoown语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/test.md",
+                "file": "source/_posts/Markdown/Markdoown语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/test.md"
+                "file": "source/_posts/Markdown/Markdoown语法.md"
               }
             }
           },
@@ -164,10 +164,14 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "4ef2e361df422a41",
+  "active": "753f71b6539e8c43",
   "lastOpenFiles": [
-    "source/about/index.md",
+    "public/2023/07/a051e91c72a4.html",
+    "public/categories/Markdown/index.html",
+    "public/categories/Markdown",
     "source/_posts/test.md",
+    "source/_posts/Markdown/Markdoown语法.md",
+    "source/about/index.md",
     "db.json",
     "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
     "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
@@ -176,8 +180,6 @@
     "node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json",
     "node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js",
     "node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json",
-    "node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js",
-    "node_modules/parse5/node_modules/entities/lib/esm/generated/encode-html.js.map",
     "node_modules/hexo-theme-landscape/source/css/images/banner.jpg",
     "node_modules/hexo-cli/assets/source/_posts/hello-world.md",
     "node_modules/stylus/node_modules/source-map/README.md",
@@ -201,13 +203,11 @@
     "node_modules/http-errors/node_modules/statuses/HISTORY.md",
     "node_modules/https-proxy-agent/node_modules/ms/readme.md",
     "node_modules/https-proxy-agent/node_modules/ms/license.md",
-    "node_modules/https-proxy-agent/node_modules/debug/README.md",
     "node_modules/hexo-theme-fluid/source/img/police_beian.png",
     "node_modules/hexo-theme-fluid/source/img/loading.gif",
     "node_modules/hexo-theme-fluid/source/img/fluid.png",
     "node_modules/hexo-theme-fluid/source/img/default.png",
     "node_modules/hexo-theme-fluid/source/img/avatar.png",
-    "node_modules/hexo-renderer-marked/node_modules/htmlparser2/README.md",
     "node_modules/nib/iconic/iconic_stroke.svg",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
