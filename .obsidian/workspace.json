@@ -66,15 +66,14 @@
             }
           },
           {
-            "id": "b25077fa92f05f57",
+            "id": "4ef2e361df422a41",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,7 +163,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b25077fa92f05f57",
+  "active": "9960d555ac2d3762",
   "lastOpenFiles": [
     "db.json",
     "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
