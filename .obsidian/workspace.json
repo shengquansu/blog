@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,8 +164,10 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "9960d555ac2d3762",
+  "active": "4ef2e361df422a41",
   "lastOpenFiles": [
+    "source/about/index.md",
+    "source/_posts/test.md",
     "db.json",
     "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js",
     "node_modules/hexo-auto-category/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js",
@@ -175,7 +178,6 @@
     "node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json",
     "node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js",
     "node_modules/parse5/node_modules/entities/lib/esm/generated/encode-html.js.map",
-    "node_modules/parse5/node_modules/entities/lib/esm/generated/encode-html.js",
     "node_modules/hexo-theme-landscape/source/css/images/banner.jpg",
     "node_modules/hexo-cli/assets/source/_posts/hello-world.md",
     "node_modules/stylus/node_modules/source-map/README.md",
@@ -206,7 +208,6 @@
     "node_modules/hexo-theme-fluid/source/img/default.png",
     "node_modules/hexo-theme-fluid/source/img/avatar.png",
     "node_modules/hexo-renderer-marked/node_modules/htmlparser2/README.md",
-    "node_modules/hexo-renderer-marked/node_modules/hexo-util/README.md",
     "node_modules/nib/iconic/iconic_stroke.svg",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
