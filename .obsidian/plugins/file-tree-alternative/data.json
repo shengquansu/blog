@@ -21,7 +21,7 @@
   "fixedHeaderInFileList": true,
   "createdYaml": false,
   "fileNameIsHeader": false,
-  "folderNote": true,
+  "folderNote": false,
   "deleteFileOption": "trash",
   "showFileNameAsFullPath": false
 }
