@@ -72,6 +72,14 @@
               "type": "file-tree-view",
               "state": {}
             }
+          },
+          {
+            "id": "4d0af972fb28c9fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
