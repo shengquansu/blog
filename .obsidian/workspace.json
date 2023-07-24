@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8272d5e1eeafae2f",
+        "id": "20fe858f15f1573b",
         "type": "tabs",
         "children": [
           {
-            "id": "57f70652cd634d9b",
+            "id": "f6cdeb0be79ba1fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "confi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -164,8 +171,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "5b6098f99bc92485",
+  "active": "f6cdeb0be79ba1fd",
   "lastOpenFiles": [
+    "2023-07-24.md",
     "Home.md",
     "source/_posts/未命名.md",
     "未命名",
@@ -202,7 +210,6 @@
     "node_modules/send/node_modules/statuses/README.md",
     "node_modules/send/node_modules/statuses/HISTORY.md",
     "node_modules/send/node_modules/on-finished/README.md",
-    "node_modules/send/node_modules/on-finished/HISTORY.md",
     "node_modules/hexo-theme-fluid/source/img/police_beian.png",
     "node_modules/hexo-theme-fluid/source/img/loading.gif",
     "node_modules/hexo-theme-fluid/source/img/fluid.png",

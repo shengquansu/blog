@@ -1,0 +1,1 @@
+[打开站点配置](<E:\obsidian_vault\hexo\blog\_config.yml>)
