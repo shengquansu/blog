@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,8 +163,9 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d3e2b3cd533875c8",
+  "active": "9960d555ac2d3762",
   "lastOpenFiles": [
+    "Home",
     "node_modules/jira-smart-commit/index.spec.js",
     "node_modules/jira-smart-commit/index.js",
     "node_modules/hexo-backlink/package.json",
@@ -177,7 +177,6 @@
     "node_modules/husky/package.json",
     "node_modules/husky/lib/index.js",
     "node_modules/husky/lib/index.d.ts",
-    "node_modules/husky/lib/bin.js",
     "node_modules/@adobe/css-tools/History.md",
     "source/_posts/hello-world.md",
     "source/_posts/Markdown/Markdoown语法.md",
