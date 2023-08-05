@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "source/_posts/test.md"
+    },
+    {
+      "basename": "Markdoown语法",
+      "path": "source/_posts/Markdown/Markdoown语法.md"
+    },
+    {
       "basename": "01第一章 无信息搜索",
       "path": "source/_posts/线上课笔记/人工智能导论_魏忠钰/01第一章 无信息搜索.md"
+    },
+    {
+      "basename": "hello-world",
+      "path": "source/_posts/hello-world.md"
     },
     {
       "basename": "00课程导引",
@@ -17,16 +29,8 @@
       "path": "source/Home.md"
     },
     {
-      "basename": "Markdoown语法",
-      "path": "source/_posts/Markdown/Markdoown语法.md"
-    },
-    {
       "basename": "hexo_template",
       "path": "source/Template/hexo_template.md"
-    },
-    {
-      "basename": "hello-world",
-      "path": "source/_posts/hello-world.md"
     }
   ],
   "omittedPaths": [],
