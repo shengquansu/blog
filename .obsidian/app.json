@@ -7,5 +7,6 @@
     "themes/"
   ],
   "promptDelete": false,
-  "attachmentFolderPath": "source/Attachment"
+  "attachmentFolderPath": "source/Attachment",
+  "useMarkdownLinks": true
 }
