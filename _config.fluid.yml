@@ -224,8 +224,8 @@ color:
 # 主题字体配置
 # Font
 font:
-  font_size: 16px
-  font_family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;
+  font_size: 18px
+  font_family: 仓耳今楷01-9129，Microsoft YaHei,Georgia, sans, serif;
   letter_spacing: 0.02em
   code_font_size: 85%
 
