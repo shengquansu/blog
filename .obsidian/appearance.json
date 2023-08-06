@@ -1,9 +1,10 @@
 {
   "accentColor": "",
   "theme": "system",
-  "baseFontSize": 18,
+  "baseFontSize": 14,
   "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "仓耳今楷01-9128",
   "textFontFamily": "仓耳今楷01-9128",
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas",
+  "translucency": false
 }
