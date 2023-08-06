@@ -225,7 +225,7 @@ color:
 # Font
 font:
   font_size: 18px
-  font_family: 仓耳今楷01-9129，Microsoft YaHei,Georgia, sans, serif;
+  font_family: 仓耳今楷01-9128W05，Microsoft YaHei,Georgia, sans, serif;
   letter_spacing: 0.02em
   code_font_size: 85%
 
