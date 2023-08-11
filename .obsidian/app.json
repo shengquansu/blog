@@ -10,5 +10,6 @@
   "attachmentFolderPath": "source/Attachment",
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "showFrontmatter": true
 }
