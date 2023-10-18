@@ -4,5 +4,13 @@
       "modifiers": [],
       "key": "F5"
     }
+  ],
+  "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "/"
+    }
   ]
 }
